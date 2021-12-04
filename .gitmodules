@@ -1,0 +1,3 @@
+[submodule "minila"]
+	path = minila
+	url = git@github.com:kiyoami/minila.git
